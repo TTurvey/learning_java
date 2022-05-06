@@ -1,0 +1,12 @@
+// .print returns the string on one line
+
+// .println return the string and then goes to the next line
+
+// An example is below
+System.out.print("I'm first!");
+System.out.println("I'm second!");
+System.out.print("I'm third!");
+
+// Output:
+I'm first!I'm second!
+I'm third!

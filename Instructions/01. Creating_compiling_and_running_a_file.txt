@@ -1,0 +1,17 @@
+// create file with CamelCase and .java ending for example the filename would be HelloWorld.java
+
+// create a class in the class file
+public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+  }
+}
+
+// compile the file
+javac HelloWorld.java
+
+// run the file
+java HelloWorld
+
+// Output:
+Hello world!
